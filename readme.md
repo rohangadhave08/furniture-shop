@@ -7,11 +7,4 @@ ___
 
 <a href="https://github.com/rohangadhave08/furniture-shop/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=rohangadhave08/furniture-shop" />
-</a>
-<a href="https://github.com/rohangadhave08/furniture-shop/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rohangadhave08/furniture-shop" />
-</a>
-<a href="https://github.com/rohangadhave08/furniture-shop/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rohangadhave08/furniture-shop" />
-</a>
 
